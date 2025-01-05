@@ -8,7 +8,7 @@ function Contact() {
 
         {/* Header Section */}
         <div className="text-center md:text-left">
-        <div className="ml-[13rem] pt-[5rem]  ">
+        <div className=" sm:ml-[13rem] mr-[1rem] sm:mr-0 ml-[2rem] pt-[5rem]  ">
                 <p className="font-sans font-semibold text-slate-500">
          <span className="text-[1rem] font-sans font-semibold text-blue-900 mr-[0.5rem] "> Get Into Touch!</span>
 Ready to collaborate or discuss a project? i would love to hear from you!
