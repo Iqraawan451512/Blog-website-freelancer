@@ -90,7 +90,9 @@ function Home() {
       {/* Toggle button */}
       <button
         onClick={toggleContent}
-        className="mt-[2rem] text-blue-200  focus:outline-double rounded-2xl hover:text-slate-200 hover:bg-cyan-900 bg-blue-950 w-[8rem] h-[2rem] focus:ring-2 focus:ring-slate-100  focus:ring-opacity-50"
+        className="mt-[2rem] text-blue-200  focus:outline-double rounded-2xl
+         hover:text-slate-200 hover:bg-cyan-900 bg-blue-950 w-[8rem] h-[2rem]
+          focus:ring-2 focus:ring-slate-100  focus:ring-opacity-50"
       >
         {isContentVisible ? "Show Less" : "Learn More"}
       </button>
@@ -143,7 +145,7 @@ languages or other <br /> elements of web development. Here are a few examples:
   <li className='text-[1rem] text-cyan-800 font-semibold   hover:text-yellow-600 sm:ml-[8rem] ml-[1rem] sm:mt-[1rem] mt-[1rem]  '>
  . IBM: Introduction to Web Development with HTML5, CSS3, and JavaScript</li></Link><Link href="/">
   <li className='text-[1rem] text-cyan-800 font-semibold   hover:text-yellow-600 sm:ml-[8rem] ml-[1rem] sm:mt-[1rem] mt-[1rem] '>
-  . Codeacademy's Learn HTML</li></Link>
+  . Codeacademy s Learn HTML</li></Link>
   
 
 </ul>
@@ -282,8 +284,8 @@ As a freelancer, you are a small business owner, so marketing your services and 
 
 Here is an overview of a marketing strategy for becoming a freelance web developer:  <br />
 <span className='text-blue-500 font-sans cursor-pointer mt-[2rem] font-medium hover:text-cyan-800'> . Define your niche and services</span><br />
-  <span className='text-blue-500 font-sans cursor-pointer font-medium hover:text-cyan-800'> .Create a strong portfolio </span><br />
- <span className='text-blue-500 font-sans cursor-pointer font-medium  hover:text-cyan-800'>   .Set competitive pricing </span><br />
+  <span className='text-blue-500 font-sans cursor-pointer font-medium hover:text-cyan-800'> . Create a strong portfolio </span><br />
+ <span className='text-blue-500 font-sans cursor-pointer font-medium  hover:text-cyan-800'>   . Set competitive pricing </span><br />
  <span className='text-blue-500 font-sans cursor-pointer font-medium hover:text-cyan-800'> . Develop an online presence</span><br />
  <span className='text-blue-500 font-sans cursor-pointer font-medium hover:text-cyan-800'> . Use social media strategically.</span><br />
  <span className='text-blue-500 font-sans cursor-pointer font-medium hover:text-cyan-800'> .Leverage freelancing platforms</span><br />

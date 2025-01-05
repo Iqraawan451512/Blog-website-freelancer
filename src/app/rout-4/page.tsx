@@ -29,9 +29,10 @@ function Rout_4() {
                         Being a freelancer
                     </span>
                     is owning your own business, so you get to choose which projects you say yes to and often what hours you work.
-                     You are self-employed and responsible for everything from finding clients to paying taxes. Creating your business plan is integral to becoming a freelance web developer.
+                     You are self-employed and responsible for everything from finding clients to paying taxes.
+                      Creating your business plan is integral to becoming a freelance web developer.
 
-                    Your business plan helps you outline what services you'll offer as a developer and how you plan to find your clients.
+                    Your business plan helps you outline what services you will offer as a developer and how you plan to find your clients.
                      Consider your top skills and the types of projects you want to take on. Many freelancers find success by
                       choosing a niche and working hard to become experts in that space.
                     <br />
@@ -139,7 +140,7 @@ function Rout_4() {
 
                             If you want to work on both the back and front ends, this is full-stack web development. 
                             As a full-stack web developer, you can offer entire packages to your clients. Instead of 
-                            hiring two different web developers, they can work with just you. You'll need to know the
+                            hiring two different web developers, they can work with just you. You will need to know the
                              programming languages for both sides, but you have greater control over the code and the build.
 
                             Full-stack developers work with their clients in the early stages, figuring out what they
