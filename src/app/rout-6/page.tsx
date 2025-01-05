@@ -46,7 +46,7 @@ function Rout_6() {
                             . Review job listings
                         </span>
                         Analyze freelance job boards to understand what skills are in demand and align your profile accordingly.
-                        Joining groups on LinkedIn and Facebook can help you understand what's in demand locally, 
+                        Joining groups on LinkedIn and Facebook can help you understand what is in demand locally, 
                         too. Online communities like Reddit can also be valuable resources for input and problem-solving help.
                     </p>
                 </div>

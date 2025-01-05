@@ -28,9 +28,12 @@ function Rout_4() {
                     <span className="font-semibold text-[1rem] text-blue-500 cursor-pointer mr-2 ">
                         Being a freelancer
                     </span>
-                    is owning your own business, so you get to choose which projects you say yes to and often what hours you work. You're self-employed and responsible for everything from finding clients to paying taxes. Creating your business plan is integral to becoming a freelance web developer.
+                    is owning your own business, so you get to choose which projects you say yes to and often what hours you work.
+                     You are self-employed and responsible for everything from finding clients to paying taxes. Creating your business plan is integral to becoming a freelance web developer.
 
-                    Your business plan helps you outline what services you'll offer as a developer and how you plan to find your clients. Consider your top skills and the types of projects you want to take on. Many freelancers find success by choosing a niche and working hard to become experts in that space.
+                    Your business plan helps you outline what services you'll offer as a developer and how you plan to find your clients.
+                     Consider your top skills and the types of projects you want to take on. Many freelancers find success by
+                      choosing a niche and working hard to become experts in that space.
                     <br />
                     <span className="mt-5 text-pretty text-gray-800 font-bold mb-[5rem] ">
                         Most important and the summary of all the content is:
@@ -59,18 +62,27 @@ function Rout_4() {
                         </h1>
                         <p className="w-[18rem] ml-[1rem] sm:w-[45rem] sm:ml-[12rem] leading-normal ">
                             <span className="font-semibold text-[1rem] text-blue-500 cursor-pointer mr-2">Front-end developers</span>
-                            Front-end developers enjoy the design aspect of development. They focus on the part that the user interacts with—the UI. Front-end developers think heavily about the user experience and how to make the website easy to use, accessible, and overall aesthetically pleasing. This type of web development can focus on the layout, graphics, navigation, how to display content, and even go into typography and color schemes.
+                            Front-end developers enjoy the design aspect of development. They focus on the part that the user
+                             interacts with—the UI. Front-end developers think heavily about the user experience and how to make 
+                             the website easy to use, accessible, and overall aesthetically pleasing. This type of web development
+                              can focus on the layout, graphics, navigation, how to display content, and even go into typography
+                               and color schemes.
 
-                            If you enjoy visuals and have an eye for design and creativity, you may enjoy front-end development best. As a front-end developer,
+                            If you enjoy visuals and have an eye for design and creativity,
+                             you may enjoy front-end development best. As a front-end developer,
                             
                             {showMoreFrontEnd && (
                                 <> 
                             
-                             you still need technical skills like proficiency with programming languages, but the focus is on the visual aspect of the website.
+                             you still need technical skills like proficiency with programming languages, 
+                             but the focus is on the visual aspect of the website.
 
                            
-                            You may work with the client to create mockups and wireframes, determining what elements the website needs at a technical level.
-                             The client will often take this to a back-end developer, who builds the website is foundation and then hands it back to you so
+                            You may work with the client to create mockups and wireframes, determining what elements 
+                            the website needs at
+                             a technical level.
+                             The client will often take this to a back-end developer, who builds the website is foundation 
+                             and then hands it back to you so
                               you can continue to work on the front end.
                         </>
                             )}
@@ -87,11 +99,11 @@ function Rout_4() {
                         <p className="w-[18rem] sm:w-[45rem]  ml-[1rem] sm:ml-[12rem] leading-normal">
                             <span className="font-semibold text-[1rem] text-blue-500 cursor-pointer mr-2">Back-end developers</span>
                             Back-end web developers work behind the scenes, writing the code to build the website is framework. 
-                            As a back-end developer, you're responsible for the coding stored on web servers.
+                            As a back-end developer, you are responsible for the coding stored on web servers.
                              You create the code that makes the website run. Back-end web developers think most
                              about databases, APIs, cybersecurity, and website performance.
 
-                            If you're interested in being a programmer and building websites but want to concentrate on performance
+                            If you are interested in being a programmer and building websites but want to concentrate on performance
                              rather than visuals,
                             
                             {showMoreBackEnd && (
@@ -101,7 +113,7 @@ function Rout_4() {
                              back-end development may be what you like best. While you still have to consider design and UX, you will 
                              focus more on building the functionality and structure and then hand it over to the front-end developer.
 
-                            As a back-end developer, you'll have to work with your client to figure out what they want before you 
+                            As a back-end developer, you will have to work with your client to figure out what they want before you 
                             can start building. The client may have a project manager, UX designer, front-end developer, or another 
                              team member you will need to collaborate with. Often your clients dont know what it takes behind the 
                              scenes to create certain features or integrations, so you have to understand what they want the website

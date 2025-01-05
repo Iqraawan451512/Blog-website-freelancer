@@ -45,7 +45,7 @@ function Rout_2() {
                     </Link>
                     <Link href="/">
                         <li className='text-sm sm:text-base text-cyan-800 font-semibold ml-8 sm:ml-[20rem] mt-4 hover:text-yellow-600'>
-                            . Codeacademy's Learn HTML
+                            . Codeacademys Learn HTML
                         </li>
                     </Link>
                 </ul>

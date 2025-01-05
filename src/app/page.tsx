@@ -23,7 +23,7 @@ function Home() {
          </div>
                {/**div-two */}
 
-<div className="div-two flex mt-[5rem]   flex-col sm:flex-row  sm:mt-32 justify-evenly"   >
+<div className="div-two flex mt-[5rem]   flex-col sm:flex-row  sm:mt-32 justify-evenly">
   <p className='mt-[0.5rem]   text-balance leading-loose font-sans text-slate-500 font-semibold     text-center sm:text-left sm:mt-2   sm:w-1/2 lg:w-1/3 '>Learn how to start your career as a freelance web developer 
     <br /> and get insights that will help you get started. <br />
    Being a freelance web developer can give you more flexibility  and <br />
@@ -221,7 +221,8 @@ Many websites use WordPress, which can also be a good foundational platform to l
               This living collection highlights your projects and past work to show customers what you can do.
               <img src="picture-2.jpg" alt="picture of content " className="w-[18rem] mt-5 rounded-md mb-5 " />
               Portfolios are essential for any freelance business, especially web development, and help prospects 
-              know that you can do the work they need. By reviewing past projects, clients can quickly get a feel for your work quality and style.
+              know that you can do the work they need. By reviewing past projects, clients can quickly get
+               a feel for your work quality and style.
             </p>
           </div>
 
@@ -273,7 +274,7 @@ to read the entire post. Many companies and clients have specific requirements
 <br /><span className='ml-[1rem]'> <Link href={"./rout-8"}> marketing strategy </Link></span> </h1>
 <p className='text-[1rem] leading-loose text-gray-800 font-sans mt-[2rem]  font-light ml-[3rem] w-[20rem] '>
 Once you are ready to start accepting clients, you need to figure out how you wll market yourself. 
-As a freelancer, you're a small business owner, so marketing your services and other
+As a freelancer, you are a small business owner, so marketing your services and other
 <img src="pic.jpg" alt="picture of content " className=' w-[18rem] mt-5 rounded-md mb-5 ' />
 
  admin

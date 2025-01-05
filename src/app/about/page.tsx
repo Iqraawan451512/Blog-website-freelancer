@@ -18,7 +18,7 @@ function About(){
          As I embark on my freelance journey, I am excited 
         to share my experiences, lessons learned, and insights with fellow aspiring developers. On this blog,
          I will be documenting my progress, sharing tips and resources, and exploring the latest trends in web 
-         development. Join me on this journey, and lets learn and grow together!"
+         development. Join me on this journey, and lets learn and grow together!
 
 
         </p>
@@ -42,7 +42,7 @@ function About(){
           I am a creative and results-driven freelance web developer.
              I specialize in crafting beautifully designed, highly functional websites 
              that not only look great but also deliver seamless user experiences. I am here to help you build a strong
-               online presence that drives results. Let's transform your digital vision
+               online presence that drives results. Lets transform your digital vision
                 into reality—one pixel at a time!
 
 </p>

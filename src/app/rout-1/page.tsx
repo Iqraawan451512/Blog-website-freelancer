@@ -21,7 +21,7 @@ Being a freelance web developer can give you more flexibility and greater
  hover:text-cyan-600 hover:translate-x-2  hover:font-extralight'> 1. Define your skills</h1>
 <p className=" text-gray-700 text-lg text-blance ml-[4rem] mt-[2rem]">
         The best place to start is a skills audit. Write down a list of all the skills <br />
-         you currently have and the ones you'd like to develop. Define what you  <br />know, what 
+         you currently have and the ones you dont like to develop. Define what you  <br />know, what 
           you dont know, and what you are best at (and enjoy) doing. <br /> Think about your career 
          goals and what your dream workweek looks like. <br />
         Knowing your strengths and weaknesses can help you choose projects <br />
