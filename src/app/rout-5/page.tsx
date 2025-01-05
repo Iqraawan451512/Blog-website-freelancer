@@ -16,9 +16,16 @@ function Rout_5() {
                 <p className="text-[1rem]   text-black mt-[1rem] text-blance w-[20rem] sm:w-[45rem] text-pretty mx-auto leading-normal">
                     Once you have a solid business plan, it's time to build your 
                     <Link href={"/"} className="text-yellow-500 font-semibold ml-2 mr-2" target="_blank">portfolio.</Link>
-                    This living collection highlights your projects and past work to show customers what you can do. Portfolios are essential for any freelance business, especially web development, and help prospects know that you can do the work they need. By reviewing past projects, clients can quickly get a feel for your work quality and style.
+                    This living collection highlights your projects and past work to show customers what you can do.
+                     Portfolios are essential for any freelance business, especially web development, 
+                     and help prospects know that you can do the work they need. By reviewing past projects,
+                      clients can quickly get a feel for your work quality and style.
                     <br />
-                    You can create an entire portfolio website dedicated to your work if you're freelancing off-platform or have many different types of examples, or you can add your best work to your Upwork portfolio. Think of the portfolio as your storefront, where people can browse and choose options. This means showcasing a diverse selection of work to attract more customers.
+                    You can create an entire portfolio website dedicated to your work if you are 
+                     freelancing off-platform or have many different types of examples, or you can add your
+                      best work to your Upwork portfolio. Think of the portfolio as your storefront, 
+                      where people can browse and choose options. This means showcasing a diverse selection
+                       of work to attract more customers.
                 </p>
 
                 {/* Portfolio Section */}

@@ -74,8 +74,8 @@ function Home() {
  hover:text-cyan-600 hover:translate-x-2  hover:font-extralight'> <Link href="./rout-1">1. Define your skills</Link></h1>
 <p className=" text-gray-700 text-sm text-blance">
         The best place to start is a skills audit. Write down a list of all the skills <br />
-         you currently have and the ones you'd like to develop. Define what you  <br />know, what 
-          you don't know, and what you're best at (and enjoy) doing. <br /> Think about your career 
+         you currently have and the ones you dont like to develop. Define what you  <br />know, what 
+          you dont know, and what you are best at (and enjoy) doing. <br /> Think about your career 
          goals and what your dream workweek looks like. <br />
         Knowing your strengths and weaknesses can help you choose projects <br />
          that will strengthen your portfolio and reputation. <br /> A successful
@@ -202,11 +202,11 @@ Many websites use WordPress, which can also be a good foundational platform to l
             </h1>
             <p className="text-[1rem] leading-loose text-gray-800 font-sans mt-[2rem] font-light ml-[3rem] w-[20rem]">
               <span className="font-medium text-cyan-800">Being a freelancer </span>is owning your own business, so you get 
-              to choose which projects you say yes to and often what hours you work. You're self-employed and responsible 
+              to choose which projects you say yes to and often what hours you work. You are self-employed and responsible 
               <img src="picture.jpg" alt="picture of content " className="w-[18rem] h-[12rem] mt-5 rounded-md mb-5 " />
               for everything from finding clients to paying taxes. Creating your business plan is integral to becoming a 
               freelance web developer.
-              Your business plan helps you outline what services you'll offer as a developer and how you plan to find your clients.
+              Your business plan helps you outline what services you wll offer as a developer and how you plan to find your clients.
             </p>
           </div>
 
@@ -216,7 +216,7 @@ Many websites use WordPress, which can also be a good foundational platform to l
               <Link href="./rout-5"> 5. Build your portfolio</Link>
             </h1>
             <p className="text-[1rem] text-gray-500 font-sans mt-[5rem] ml-[3rem] w-[20rem] leading-loose">
-              Once you have a solid business plan, it's time to <span className="text-cyan-800 font-medium">
+              Once you have a solid business plan, it is time to <span className="text-cyan-800 font-medium">
                 <Link href="/"> build your portfolio. </Link></span>
               This living collection highlights your projects and past work to show customers what you can do.
               <img src="picture-2.jpg" alt="picture of content " className="w-[18rem] mt-5 rounded-md mb-5 " />
@@ -272,14 +272,14 @@ to read the entire post. Many companies and clients have specific requirements
   8. Create your  
 <br /><span className='ml-[1rem]'> <Link href={"./rout-8"}> marketing strategy </Link></span> </h1>
 <p className='text-[1rem] leading-loose text-gray-800 font-sans mt-[2rem]  font-light ml-[3rem] w-[20rem] '>
-Once you're ready to start accepting clients, you need to figure out how you'll market yourself. 
+Once you are ready to start accepting clients, you need to figure out how you wll market yourself. 
 As a freelancer, you're a small business owner, so marketing your services and other
 <img src="pic.jpg" alt="picture of content " className=' w-[18rem] mt-5 rounded-md mb-5 ' />
 
  admin
  tasks are important facets of the job.
 
-Here's an overview of a marketing strategy for becoming a freelance web developer:  <br />
+Here is an overview of a marketing strategy for becoming a freelance web developer:  <br />
 <span className='text-blue-500 font-sans cursor-pointer mt-[2rem] font-medium hover:text-cyan-800'> . Define your niche and services</span><br />
   <span className='text-blue-500 font-sans cursor-pointer font-medium hover:text-cyan-800'> .Create a strong portfolio </span><br />
  <span className='text-blue-500 font-sans cursor-pointer font-medium  hover:text-cyan-800'>   .Set competitive pricing </span><br />

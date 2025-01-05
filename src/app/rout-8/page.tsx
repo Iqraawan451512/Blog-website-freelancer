@@ -13,9 +13,9 @@ function Rout_8() {
 
         {/* Main Paragraph */}
         <p className="text-sm sm:text-base text-gray-800 font-sans mt-4  sm:mt-6 md:mt-[3rem] ml-4 sm:ml-[15rem] sm:mb-[2rem] md:ml-[15rem] lg:ml-[15rem] w-full sm:w-[40rem] md:w-[45rem] leading-relaxed">
-          Once you're ready to start accepting clients, you need to figure out how you'll market yourself. As a freelancer, you're a small business owner,
+          Once you are ready to start accepting clients, you need to figure out how you will market yourself. As a freelancer, yo uare a small business owner,
            so marketing your services and other admin tasks are important facets of the job. <br /> <br />
-        <span className="text-cyan-500 font-semibold  " >Here's an overview of a marketing strategy for becoming a freelance web developer:</span>
+        <span className="text-cyan-500 font-semibold  " >Here is an overview of a marketing strategy for becoming a freelance web developer:</span>
         </p>
 
         {/* Image */}

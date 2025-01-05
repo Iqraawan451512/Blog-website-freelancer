@@ -29,9 +29,9 @@ function Blog() {
                 {/* Main Paragraph */}
                 <p className="mt-8 text-lg sm:text-xl font-sans text-slate-500 font-semibold mx-auto max-w-4xl">
                     Like many developers, I started my career working for a company, but I quickly realized that
-                    the rigid 9-5 structure and lack of creative freedom weren't fulfilling my true potential.
+                    the rigid 9-5 structure and lack of creative freedom were not fulfilling my true potential.
                     I wanted the flexibility to work on projects that excited me, and the chance to make a
-                    direct impact on my clients' businesses. That's when I decided to start my own freelance
+                    direct impact on my clients businesses. That is when I decided to start my own freelance
                     journey. It was not always easy, but every project I took on taught me something new, and
                     soon enough, I was helping businesses large and small develop their online presence.
                 </p>

@@ -69,7 +69,9 @@ function Rout_4() {
                              you still need technical skills like proficiency with programming languages, but the focus is on the visual aspect of the website.
 
                            
-                            You may work with the client to create mockups and wireframes, determining what elements the website needs at a technical level. The client will often take this to a back-end developer, who builds the website's foundation and then hands it back to you so you can continue to work on the front end.
+                            You may work with the client to create mockups and wireframes, determining what elements the website needs at a technical level.
+                             The client will often take this to a back-end developer, who builds the website is foundation and then hands it back to you so
+                              you can continue to work on the front end.
                         </>
                             )}
                         </p>
@@ -84,17 +86,26 @@ function Rout_4() {
                         </h1>
                         <p className="w-[18rem] sm:w-[45rem]  ml-[1rem] sm:ml-[12rem] leading-normal">
                             <span className="font-semibold text-[1rem] text-blue-500 cursor-pointer mr-2">Back-end developers</span>
-                            Back-end web developers work behind the scenes, writing the code to build the website's framework. As a back-end developer, you're responsible for the coding stored on web servers. You create the code that makes the website run. Back-end web developers think most about databases, APIs, cybersecurity, and website performance.
+                            Back-end web developers work behind the scenes, writing the code to build the website is framework. 
+                            As a back-end developer, you're responsible for the coding stored on web servers.
+                             You create the code that makes the website run. Back-end web developers think most
+                             about databases, APIs, cybersecurity, and website performance.
 
-                            If you're interested in being a programmer and building websites but want to concentrate on performance rather than visuals,
+                            If you're interested in being a programmer and building websites but want to concentrate on performance
+                             rather than visuals,
                             
                             {showMoreBackEnd && (
                         <>
                             
                             
-                             back-end development may be what you like best. While you still have to consider design and UX, you'll focus more on building the functionality and structure and then hand it over to the front-end developer.
+                             back-end development may be what you like best. While you still have to consider design and UX, you will 
+                             focus more on building the functionality and structure and then hand it over to the front-end developer.
 
-                            As a back-end developer, you'll have to work with your client to figure out what they want before you can start building. The client may have a project manager, UX designer, front-end developer, or another team member you'll need to collaborate with. Often your clients don't know what it takes behind the scenes to create certain features or integrations, so you have to understand what they want the website to look like first, so you can make it possible on your end.
+                            As a back-end developer, you'll have to work with your client to figure out what they want before you 
+                            can start building. The client may have a project manager, UX designer, front-end developer, or another 
+                             team member you will need to collaborate with. Often your clients dont know what it takes behind the 
+                             scenes to create certain features or integrations, so you have to understand what they want the website
+                             to look like first, so you can make it possible on your end.
                         </>
                             )}
                         </p>
@@ -114,18 +125,27 @@ function Rout_4() {
                         <p className="w-[18rem] sm:w-[45rem] sm:ml-[12rem] leading-normal ">
                             <span className="font-semibold text-[1rem] text-blue-500 cursor-pointer mr-3">Full stack</span>
 
-                            If you want to work on both the back and front ends, this is full-stack web development. As a full-stack web developer, you can offer entire packages to your clients. Instead of hiring two different web developers, they can work with just you. You'll need to know the programming languages for both sides, but you have greater control over the code and the build.
+                            If you want to work on both the back and front ends, this is full-stack web development. 
+                            As a full-stack web developer, you can offer entire packages to your clients. Instead of 
+                            hiring two different web developers, they can work with just you. You'll need to know the
+                             programming languages for both sides, but you have greater control over the code and the build.
 
-                            Full-stack developers work with their clients in the early stages, figuring out what they want down to the finest detail and then creating mockups for them to sign off on.
+                            Full-stack developers work with their clients in the early stages, figuring out what they
+                             want down to the finest detail and then creating mockups for them to sign off on.
                             
                             {showMoreFullStack && (
                         <>
                             
                             
                             
-                             Once you know what the client wants, you can start building the back end. After the back end, you'll work on the front end, collaborating with other stakeholders if needed to work on the layouts and visual display.
+                             Once you know what the client wants, you can start building the back end. After the back end,
+                              you will work on the front end, collaborating with other stakeholders if needed to work on the 
+                              layouts and visual display.
 
-                            Full-stack web development was popular in the earlier stages of the Internet when websites had fewer integrations, technologies, and features. Today's full-stack web developers typically work on simpler websites or shipping minimal viable products (MVPs) for clients that then can be added to. They can shift from back-end to front-end, but complicated websites often require separate developers.
+                            Full-stack web development was popular in the earlier stages of the Internet when websites
+                             had fewer integrations, technologies, and features. Today is full-stack web developers typically work 
+                             on simpler websites or shipping minimal viable products (MVPs) for clients that then can be added to.
+                              They can shift from back-end to front-end, but complicated websites often require separate developers.
                         </>
                         )}
                         </p>

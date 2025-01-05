@@ -31,7 +31,7 @@ function Rout_6() {
                         <span className="text-[1rem] font-semibold text-blue-500 mr-2 cursor-pointer">
                             . Analyze competitor portfolios
                         </span>
-                        Review other freelancers' work to spot opportunities and see where you can offer something unique.
+                        Review other freelancers  work to spot opportunities and see where you can offer something unique.
                     </p>
 
                     <p className="mt-[1rem] text-[1rem] font-light">
@@ -46,7 +46,8 @@ function Rout_6() {
                             . Review job listings
                         </span>
                         Analyze freelance job boards to understand what skills are in demand and align your profile accordingly.
-                        Joining groups on LinkedIn and Facebook can help you understand what's in demand locally, too. Online communities like Reddit can also be valuable resources for input and problem-solving help.
+                        Joining groups on LinkedIn and Facebook can help you understand what's in demand locally, 
+                        too. Online communities like Reddit can also be valuable resources for input and problem-solving help.
                     </p>
                 </div>
             </div>

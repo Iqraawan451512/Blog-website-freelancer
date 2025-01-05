@@ -1,6 +1,5 @@
 "use client"
 import Link from "next/link"
-import CommentSection from "../component/comment/comment"
 import CommentSection_1 from "../component/comment/comment-1"
 function About(){
     return(
@@ -11,15 +10,15 @@ function About(){
           My Mission
         </h1>
         <p className="text-[#d3d3d3] ml-4 sm:ml-8 text-base sm:text-lg leading-relaxed">
-        Welcome to my corner of the web! Im <span className="text-[1rem] font-serif hover:text-[#a9d6e5] text-blue-300">IQRA AWAN</span> , a budding web developer with a passion for 
+        Welcome to my corner of the web! I am <span className="text-[1rem] font-serif hover:text-[#a9d6e5] text-blue-300">IQRA AWAN</span> , a budding web developer with a passion for 
         building innovative and user-friendly websites.
         My mission is clear: to provide insightful, well-researched, and engaging content that empowers
          individuals to make
          informed decisions and improve their lives.
-         As I embark on my freelance journey, I'm excited 
+         As I embark on my freelance journey, I am excited 
         to share my experiences, lessons learned, and insights with fellow aspiring developers. On this blog,
-         I'll be documenting my progress, sharing tips and resources, and exploring the latest trends in web 
-         development. Join me on this journey, and let's learn and grow together!"
+         I will be documenting my progress, sharing tips and resources, and exploring the latest trends in web 
+         development. Join me on this journey, and lets learn and grow together!"
 
 
         </p>
