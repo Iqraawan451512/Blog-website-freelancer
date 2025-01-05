@@ -14,7 +14,7 @@ function Rout_5() {
                 </h1>
                 
                 <p className="text-[1rem]   text-black mt-[1rem] text-blance w-[20rem] sm:w-[45rem] text-pretty mx-auto leading-normal">
-                    Once you have a solid business plan, it's time to build your 
+                    Once you have a solid business plan, it is a time to build your 
                     <Link href={"/"} className="text-yellow-500 font-semibold ml-2 mr-2" target="_blank">portfolio.</Link>
                     This living collection highlights your projects and past work to show customers what you can do.
                      Portfolios are essential for any freelance business, especially web development, 

@@ -13,7 +13,7 @@ function Rout_8() {
 
         {/* Main Paragraph */}
         <p className="text-sm sm:text-base text-gray-800 font-sans mt-4  sm:mt-6 md:mt-[3rem] ml-4 sm:ml-[15rem] sm:mb-[2rem] md:ml-[15rem] lg:ml-[15rem] w-full sm:w-[40rem] md:w-[45rem] leading-relaxed">
-          Once you are ready to start accepting clients, you need to figure out how you will market yourself. As a freelancer, yo uare a small business owner,
+          Once you are ready to start accepting clients, you need to figure out how you will market yourself. As a freelancer, you are a small business owner,
            so marketing your services and other admin tasks are important facets of the job. <br /> <br />
         <span className="text-cyan-500 font-semibold  " >Here is an overview of a marketing strategy for becoming a freelance web developer:</span>
         </p>
@@ -29,7 +29,7 @@ function Rout_8() {
         <div className="mt-8 sm:mt-10 sm:w-[50rem] sm:ml-[12rem]">
           <p className="ml-4 sm:ml-6 text-sm sm:text-base font-light">
             <span className="text-blue-500 font-semibold cursor-pointer">. Define your niche and services</span>  
-            Identify the specific web development services you'll offer and consider specializing in a niche, like e-commerce sites or responsive design, to differentiate yourself.
+            Identify the specific web development services you will offer and consider specializing in a niche, like e-commerce sites or responsive design, to differentiate yourself.
           </p>
 
           <p className="ml-4 sm:ml-6 mt-4 text-sm sm:text-base font-light">
