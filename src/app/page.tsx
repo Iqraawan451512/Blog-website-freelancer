@@ -19,12 +19,42 @@ function Home() {
     <main>
       {/**div-one */}
       <div className="div-one">
-         <h1 className='text-center mt-[5rem] text-blue-950 font-semibold  font-sans text-clip hover:text-amber-900  text-lg sm:text-2xl lg:text-6xl  '>How To Become a Freelance <br /> Web Developer in <br />  2025</h1>
+         
+         <h1 className=' absolute text-center   
+          text-white font-semibold mt-[5rem] ml-[3rem] font-sans text-clip hover:text-orange-200 sm:mt-[6rem]
+          sm:ml-[14rem]  text-[1.5rem] sm:text-2xl lg:text-6xl  '>
+            How To Become a Freelance <br /> Web Developer in <br />  2025</h1>
+            <button className='absolute mt-[12rem] ml-[8.5rem] sm:mt-[18rem] sm:ml-[32rem]   font-medium sm:font-bold text-white  hover:text-orange-300 hover:bg-slate-50
+             border-orange-500  w-[7rem] sm:w-[10rem] border-double border-2 sm:h-[3rem] sm:text-[1rem] text-[0.7rem] h-[2rem] '>LEARN MORE</button>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaykYVMdtQOcm9dM4-JaXz47_BDiTcuYriA&s" alt="its a picture" className='sm:h-[30rem] h-[20rem] sm:w-full w-[30rem]' />
          </div>
+ {/**div-two */}
+ <div className="div-three">
+  <h1 className='text-[1.5rem] font-bold font-serif text-gray-800  ml-[5rem] sm:ml-[33rem] mt-[3rem]'> Related Articals</h1>
+  
+    <ul className='flex flex-col sm:flex-row mt-5 justify-center   gap-8 '>
+   <li className=' h-[4rem] ml-[3rem] sm:ml-0 p-4  pl-10 sm:p-6 sm:pl-10  text-[0.8rem] rounded-[1rem] w-[20rem]  sm:w-[28rem]  hover:bg-slate-400
+    hover:text-black cursor-pointer bg-slate-100 text-blue-950 font-semibold ' >
+       <Link href="https://www.upwork.com/resources/most-common-software-development-methodologies">
+       8 Most Common Software Development Methodologies</Link></li>
+   <li className=' h-[4rem] p-4    pl-10 sm:p-6 sm:pl-10  w-[20rem] 
+    sm:w-[28rem] text-[0.8rem] r ml-[3rem] sm:ml-0 ounded-[1rem] cursor-pointer rounded-[1rem] hover:bg-slate-400 hover:text-black bg-slate-100
+     text-blue-950 font-semibold '> <Link href="https://www.upwork.com/resources/web-design-vs-web-development">
+      Web Design and Web Development: Meanings and Differences</Link></li>
+</ul>
+  
+</div>
+
+
+
+
+
+
                {/**div-two */}
 
-<div className="div-two flex mt-[5rem]   flex-col sm:flex-row  sm:mt-32 justify-evenly">
-  <p className='mt-[0.5rem]   text-balance leading-loose font-sans text-slate-500 font-semibold     text-center sm:text-left sm:mt-2   sm:w-1/2 lg:w-1/3 '>Learn how to start your career as a freelance web developer 
+<div className="div-two flex mt-[3rem]   flex-col sm:flex-row  sm:mt-24 justify-evenly">
+  <p className='mt-[0.1rem]   text-balance leading-loose font-sans text-slate-500 font-semibold  text-center sm:text-left sm:mt-2   sm:w-1/2 lg:w-1/3 '>
+  Learn how to start your career as a freelance web developer 
     <br /> and get insights that will help you get started. <br />
    Being a freelance web developer can give you more flexibility  and <br />
     greater control over your career. You can choose whether you want  <br />
@@ -38,16 +68,7 @@ function Home() {
            alt=" main image " className='h-[15rem] w-[35rem]   text-left rounded-md mt-5  sm:h-80 lg:h-96   sm:[30rem]  sm:w-[40rem] ' />
 
 </div>
-      {/**div-three */}
-<div className="div-three">
-  <h1 className='text-[1.5rem] font-bold font-serif text-gray-800 ml-[5rem] mt-[3rem]'> Related Articals</h1>
-  
-    <ul className='flex flex-col sm:flex-row mt-5 justify-center   gap-8 '>
-   <li className=' h-[4rem]   p-4  pl-10 sm:p-6 sm:pl-10  text-[0.8rem] rounded-[1rem] w-[20rem]  sm:w-[28rem]  hover:bg-slate-400 hover:text-black cursor-pointer bg-slate-100 text-blue-950 font-semibold ' > <Link href="https://www.upwork.com/resources/most-common-software-development-methodologies">8 Most Common Software Development Methodologies</Link></li>
-   <li className=' h-[4rem] p-4    pl-10 sm:p-6 sm:pl-10  w-[20rem]  sm:w-[28rem] text-[0.8rem] rounded-[1rem] cursor-pointer hover:bg-slate-400 hover:text-black bg-slate-100 text-blue-950 font-semibold '> <Link href="https://www.upwork.com/resources/web-design-vs-web-development">Web Design and Web Development: Meanings and Differences</Link></li>
-</ul>
-  
-</div>
+     
       {/**div-four */}
 
 
