@@ -1,4 +1,5 @@
 "use client"
+import Link from 'next/link';
 import { useState } from 'react';
 
 function Blog() {
@@ -47,7 +48,7 @@ function Blog() {
                               
                             "
                         />
-                        <p className="text-sm mt-2">Define your skills</p>
+                        <Link href={"./rout-1"}><p className="text-sm mt-2">Define your skills</p></Link>
                     </div>
 
                     {/* Card 2 */}
@@ -57,7 +58,7 @@ function Blog() {
                             alt="Education + Skills"
                             className="w-32 h-20 rounded-2xl hover:translate-x-1 hover:rounded-full mx-auto"
                         />
-                        <p className="text-sm mt-2">Education + Skills</p>
+                       <Link href={"./rout-2"}> <p className="text-sm mt-2">Education + Skills</p></Link>
                     </div>
 
                     {/* Card 3 */}
@@ -67,7 +68,7 @@ function Blog() {
                             alt="Market Research"
                             className="w-32 h-20 rounded-2xl hover:translate-x-1 hover:rounded-full mx-auto"
                         />
-                        <p className="text-sm mt-2">Market research</p>
+                       <Link href={"./rout-6"}><p className="text-sm mt-2">Market research</p></Link>
                     </div>
 
                     {/* Card 4 */}
@@ -77,7 +78,7 @@ function Blog() {
                             alt="Build Your Portfolio"
                             className="w-32 h-20 rounded-2xl hover:translate-x-1 hover:rounded-full mx-auto"
                         />
-                        <p className="text-sm mt-2">Build your portfolio</p>
+                       <Link href={"./rout-5"}> <p className="text-sm mt-2">Build your portfolio</p></Link>
                     </div>
 
                     {/* Card 5 */}
@@ -87,7 +88,7 @@ function Blog() {
                             alt="Apply for Jobs"
                             className="w-32 h-20 rounded-2xl hover:translate-x-1 hover:rounded-full mx-auto"
                         />
-                        <p className="text-sm mt-2">Apply for jobs</p>
+                       <Link href={"./rout-7"}><p className="text-sm mt-2">Apply for jobs</p></Link>
                     </div>
 
                     {/* Card 6 */}
@@ -97,7 +98,7 @@ function Blog() {
                             alt="Marketing Strategy"
                             className="w-32 h-20 rounded-2xl hover:translate-x-1 hover:rounded-full mx-auto"
                         />
-                        <p className="text-sm mt-2">Marketing strategy</p>
+                      <Link href={"./rout-8"}><p className="text-sm mt-2">Marketing strategy</p></Link>
                     </div>
                 </div>
 

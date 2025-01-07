@@ -24,9 +24,9 @@ function Home() {
           text-white font-semibold mt-[5rem] ml-[3rem] font-sans text-clip hover:text-orange-200 sm:mt-[6rem]
           sm:ml-[14rem]  text-[1.5rem] sm:text-2xl lg:text-6xl  '>
             How To Become a Freelance <br /> Web Developer in <br />  2025</h1>
-            <button className='absolute mt-[12rem] ml-[8.5rem] sm:mt-[18rem] sm:ml-[32rem]   font-medium sm:font-bold text-white  hover:text-orange-300 hover:bg-slate-50
-             border-orange-500  w-[7rem] sm:w-[10rem] border-double border-2 sm:h-[3rem] sm:text-[1rem] text-[0.7rem] h-[2rem] '>LEARN MORE</button>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaykYVMdtQOcm9dM4-JaXz47_BDiTcuYriA&s" alt="its a picture" className='sm:h-[30rem] h-[20rem] sm:w-full w-[30rem]' />
+          <Link href={"#abc"}>  <button className='absolute mt-[12rem] ml-[8.5rem] sm:mt-[18rem] sm:ml-[32rem]   font-medium sm:font-bold text-white  hover:text-orange-300 hover:bg-slate-50
+             border-orange-500  w-[7rem] sm:w-[10rem] border-double border-2 sm:h-[3rem] sm:text-[1rem] text-[0.7rem] h-[2rem] '>LEARN MORE</button></Link>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaykYVMdtQOcm9dM4-JaXz47_BDiTcuYriA&s" alt="its a picture" className=' mt-[0.1rem] sm:h-[30rem] h-[20rem] sm:w-full w-[30rem]' />
          </div>
  {/**div-two */}
  <div className="div-three">
@@ -52,7 +52,7 @@ function Home() {
 
                {/**div-two */}
 
-<div className="div-two flex mt-[3rem]   flex-col sm:flex-row  sm:mt-24 justify-evenly">
+<div className="div-two flex mt-[3rem]   flex-col sm:flex-row  sm:mt-24 justify-evenly" id="abc">
   <p className='mt-[0.1rem]   text-balance leading-loose font-sans text-slate-500 font-semibold  text-center sm:text-left sm:mt-2   sm:w-1/2 lg:w-1/3 '>
   Learn how to start your career as a freelance web developer 
     <br /> and get insights that will help you get started. <br />
