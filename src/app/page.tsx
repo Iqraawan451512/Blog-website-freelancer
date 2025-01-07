@@ -33,12 +33,12 @@ function Home() {
   <h1 className='text-[1.5rem] font-bold font-serif text-gray-800  ml-[5rem] sm:ml-[33rem] mt-[3rem]'> Related Articals</h1>
   
     <ul className='flex flex-col sm:flex-row mt-5 justify-center   gap-8 '>
-   <li className=' h-[4rem] ml-[3rem] sm:ml-0 p-4  pl-10 sm:p-6 sm:pl-10  text-[0.8rem] rounded-[1rem] w-[20rem]  sm:w-[28rem]  hover:bg-slate-400
+   <li className=' h-[4rem] ml-[1rem] sm:ml-0 p-4  pl-10 sm:p-6 sm:pl-10  text-[0.8rem] rounded-[1rem] w-[20rem]  sm:w-[28rem]  hover:bg-slate-400
     hover:text-black cursor-pointer bg-slate-100 text-blue-950 font-semibold ' >
        <Link href="https://www.upwork.com/resources/most-common-software-development-methodologies">
        8 Most Common Software Development Methodologies</Link></li>
    <li className=' h-[4rem] p-4    pl-10 sm:p-6 sm:pl-10  w-[20rem] 
-    sm:w-[28rem] text-[0.8rem] r ml-[3rem] sm:ml-0 ounded-[1rem] cursor-pointer rounded-[1rem] hover:bg-slate-400 hover:text-black bg-slate-100
+    sm:w-[28rem] text-[0.8rem]  ml-[1rem] sm:ml-0 ounded-[1rem] cursor-pointer rounded-[1rem] hover:bg-slate-400 hover:text-black bg-slate-100
      text-blue-950 font-semibold '> <Link href="https://www.upwork.com/resources/web-design-vs-web-development">
       Web Design and Web Development: Meanings and Differences</Link></li>
 </ul>
